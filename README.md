@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NotViper
-- 👀 I’m Working On Aoi Vapidz Bot
-- 🌱 I’m currently learning Javascript,Bdscript
+- 👀 I’m Working On Vapidz Exon Discord Bot
+- 🌱 Favorite Libary, Aoi.js | Based On Discord.js
 
 <!---
 NotViper/NotViper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
