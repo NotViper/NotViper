@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NotViper
 - 👀 I’m Working On Vapidz Bot Discord Bot
 - 🌱 Favorite Libary, Aoi.js | Based On Discord.js
+- Dumb Developer ( Kinda )
 
 
 <!---
